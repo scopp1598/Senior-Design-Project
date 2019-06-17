@@ -1,0 +1,40 @@
+8 weeks left
+	must have proof of concept
+	reverse engineering due next week depending on Profs health
+	written proposal due 2/25
+Proposal Format- from Carpenter (may or may not be different for Santa)
+	Cover Page
+	Problem Statement
+		Why is your project needed? Motivate it
+	proposed solution
+		why is your project the solution? Explain it
+	proof of concept
+		is your project possible? prove it
+	resources and lab needs
+		what do you need? List it
+	Timeline
+		How long will it take? 
+		What are the milestones? 
+		What are the tasks split among everyone? 
+		Gantt Chart?
+			bar graph that shows work and how its getting done
+	Budget
+		What it would cost in reality vs what it will cost YOU?
+	References
+	Appendices
+		Grading Contract
+			Probably not a thing for Santa
+Presentation - Santa like short presentation, so stuff may not apply
+	Team introduction
+	motivate the problem
+	propose your solution
+	Proof of concept
+		What are the high risk problems?
+		What new things do you need to learn?
+		How will you learn them?
+	Next stops
+		where are you now?
+		What comes next?
+	Budget/Timeline
+		Very breifly describe the intendedproject budget and timeline (less than 30 seconds)
+		If possible roll troughout the presentation
